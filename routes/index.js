@@ -35,7 +35,7 @@ const team = {
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'FIP TEAM PAGE' });
 });
 
 router.get('/team/:member', function(req,res){
