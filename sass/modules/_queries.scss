@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+  .team {
+    flex-wrap: wrap;
+  }
+
+  .teamMember {
+    flex-grow: 1;
+    margin-bottom: 20px;
+  }
+}
