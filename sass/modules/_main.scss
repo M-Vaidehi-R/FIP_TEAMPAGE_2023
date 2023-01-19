@@ -1,0 +1,40 @@
+#teamIntro {
+  line-height: 40px;
+  margin-bottom: 50px;
+}
+
+#teamThumb {
+  padding: 10px 30px 60px 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+#teamThumb h2 {
+  margin-bottom: 40px;
+}
+
+.team{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.team img {
+  margin-bottom: 7px;
+}
+
+.teamMember {
+  width: 150px;
+  height: 150px;
+}
+
+#teamDes {
+  max-width: 800px;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+#teamDes p {
+  line-height: 25px;
+  padding: 0 20px;
+}
