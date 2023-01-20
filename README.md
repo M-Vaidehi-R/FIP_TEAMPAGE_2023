@@ -1,4 +1,4 @@
-# FIP- 23W
+# FIP TEAMPAGE- 23W
 ## Anti-Bullying campaign: LGBTQ+ in Sports
 
 ### Group Members
