@@ -1,13 +1,18 @@
 <!-- snippet of HTML that representsa team member -->
 
 <section>
-  <div>
+  <div class="backTo">
     <h2><a href="/">Meet Our Team!</a></h2>
   </div>
-  <div>
-    <h3>{{ person.name }}</h3>
-    <p>{{ person.role }}</p>
-
-    <img src="/images/{{person.avathar}}" alt="{{person.name}}'s image">
+  <div id="memberDes">
+    <div class="memberImg">
+      <img src="//unsplash.it/120/120">
+      {{!-- <img src="/images/{{ person.picture }}" alt="{{ person.name }}'s image"> --}}
+    </div>
+    <div class="memberInfo">
+      <h3>{{ person.name }}</h3>
+      <h4>{{ person.role }}</h4>
+      <p>{{ person.description }}</p>
+    </div>
   </div>
 </section>
