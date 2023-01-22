@@ -1,16 +1,18 @@
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 950px) {
   .team {
     flex-wrap: wrap;
   }
 
   .teamMember {
     flex-grow: 1;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: auto;
   }
   
-  .memberImg img {
-    width: 200px;
-    height: 200px;
+  .teamMember img {
+    width: 150px;
+    height: 150px;
   }
   
 }

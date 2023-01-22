@@ -5,7 +5,7 @@
 
 #teamThumb {
   padding: 10px 30px 60px 30px;
-  max-width: 1000px;
+  max-width: 1200px;
   margin: auto;
 }
 
@@ -20,12 +20,18 @@
 }
 
 .team img {
-  margin-bottom: 7px;
+  margin-bottom: 15px;
 }
 
 .teamMember {
-  width: 150px;
-  height: 150px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.teamMember img {
+  width: 180px;
+  height: 180px;
 }
 
 #teamDes {
