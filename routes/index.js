@@ -5,35 +5,35 @@ const team = {
   tonya: {
     name:'TONYA',
     role: 'Project Manager',
-    picture:'tonya.jpg',
+    "picture":'tonya.png',
     "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
   },
 
   evica: {
     name:'EVICA',
     role: 'Motion Designer',
-    picture:'evica.jpg',
+    "picture":'evica.png',
     "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
   },
 
   sian: {
     name:'SIAN',
     role: 'Graphic Designer',
-    picture:'sian.jpg',
+    "picture":'sian.png',
     "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
   },
 
   doyeon: {
     name:'DOYEON',
     role: 'Front-End Developer',
-    picture:'doyeon.jpg',
+    "picture":'doyeon.png',
     "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
   }, 
 
   mamatha: {
     name:'MAMATHA',
     role: 'Back-End Developer',
-    picture:'mamatha.jpg',
+    "picture":'mamatha.png',
     "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
   }
 }
