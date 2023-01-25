@@ -34,7 +34,7 @@ const team = {
     name: 'MAMATHA',
     role: 'Back-End Developer',
     "picture": 'mamatha.png',
-    "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
+    "description": 'Hey! I am Mamatha Vaidehi Ramesh. I am the Back-End developer of the group for the Final Integrated Project. I will be deploying my knowledge of Node.js for developing the micro-site for our campaign aginst bulling of LGBTQ+ Community in sports. I am looking forward to exploring the world of the back-end developing as a complete newbie to this field. '
   }
 }
 
