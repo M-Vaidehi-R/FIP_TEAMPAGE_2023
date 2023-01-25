@@ -20,7 +20,7 @@ const team = {
     name: 'SIAN',
     role: 'Graphic Designer',
     "picture": 'sian.png',
-    "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
+    "description": 'Hi, this is Sian. I am working as a graphic designer in this project. I consider myself a passionate and creative designer. I visualize what people want and create visually high quality works. And I enjoy what I do through people reactions and feedback on my work. I am looking forward to developing myself as a desginer through various projects in the futre.'
   },
 
   doyeon: {
