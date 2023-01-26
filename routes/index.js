@@ -27,7 +27,7 @@ const team = {
     name: 'DOYEON',
     role: 'Front-End Developer',
     "picture": 'doyeon.png',
-    "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
+    "description": 'Hello! I am m Doyeon Kim. I am in charge of the Front-end Developer for the Final Integrated Project. I built HTML and CSS part of our microsite for our campaign. Also, I will keep working on Front-end parts like HTML, CSS, and JS for our campaign website. I am looking forward to creating unique and various websites using my skills.'
   },
 
   mamatha: {
