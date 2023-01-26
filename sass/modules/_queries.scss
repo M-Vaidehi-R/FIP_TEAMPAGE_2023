@@ -3,6 +3,15 @@
     flex-wrap: wrap;
   }
 
+  #teamIntro h2 {
+    padding: 10px;
+  }
+
+  #teamIntro h3 {
+    font-size: 14px;
+    padding: 0 25px;
+  }
+
   .teamMember {
     flex-grow: 1;
     padding-bottom: 20px;
@@ -21,7 +30,7 @@
   }
 
   .memberInfo p {
-    padding: 30px;
+    padding: 20px 30px;
   }
   
 }
