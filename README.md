@@ -18,10 +18,10 @@ Hi there! This is a small team assignment based on your FIP teampage, where our 
 
 <h2>Meet the Team:</h2>
 <ul>
-<li>Tonya Oliver- Project Manager <a href="https://github.com/evica-ai">@evica-ai</a></li>
-<li>Sian Kim- Graphic Design <a href="https://github.com/evica-ai">@evica-ai</a></li>
-<li>Mamatha Ramesh- Web Dev- Backend <a href="https://github.com/evica-ai">@evica-ai</a></li>
-<li>Doyeon Kim- Web Dev- Frontend <a href="https://github.com/evica-ai">@evica-ai</a></li>
+<li>Tonya Oliver- Project Manager <a href="https://github.com/Tonya33">@Tonya33</a></li>
+<li>Sian Kim- Graphic Design <a href="https://github.com/sianmosey">@sianmosey</a></li>
+<li>Mamatha Ramesh- Web Dev- Backend <a href="https://github.com/M-Vaidehi-R">@M-Vaidehi-R</a></li>
+<li>Doyeon Kim- Web Dev- Frontend <a href="https://github.com/Doyeon-k-fanshawe">@Doyeon-k-fanshawe</a></li>
 <li>Evica Mai <a href="https://github.com/evica-ai">@evica-ai</a></li>
 </ul>
 
