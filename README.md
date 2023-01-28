@@ -22,7 +22,7 @@ Hi there! This is a small team assignment based on your FIP teampage, where our 
 <li>Sian Kim- Graphic Design <a href="https://github.com/sianmosey">@sianmosey</a></li>
 <li>Mamatha Ramesh- Web Dev- Backend <a href="https://github.com/M-Vaidehi-R">@M-Vaidehi-R</a></li>
 <li>Doyeon Kim- Web Dev- Frontend <a href="https://github.com/Doyeon-k-fanshawe">@Doyeon-k-fanshawe</a></li>
-<li>Evica Mai <a href="https://github.com/evica-ai">@evica-ai</a></li>
+<li>Evica Mai - Motion Design/3D<a href="https://github.com/evica-ai">@evica-ai</a></li>
 </ul>
 
 <h3>Prerequisites</h3>
