@@ -13,7 +13,7 @@ const team = {
     name: 'EVICA',
     role: 'Motion Designer',
     "picture": 'evica.png',
-    "description": 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae, ullam nam quibusdam fuga voluptas doloremque natus architecto distinctio dolore nesciunt suscipit, illo qui pariatur nisi! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ut perspiciatis magni eveniet repudiandae.'
+    "description": 'Hi there! Glad to meet you, I am Evica Mai in charge of the motion design/3d asspect of this year 2023 FIP, focused on the lgbtq+ youth community. I will be focusing especially on the message of the discrimination/abuse towards the lgbtq community in sports; on how to create the memo impactful towards any audience with the skills I learnt along the way.'
   },
 
   sian: {
